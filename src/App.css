@@ -1,0 +1,85 @@
+/* body{
+  background: url("/receipe/src/back.jpg");
+  background-size:contain;
+  background-position:top;
+  background: cover;
+} */
+.rece{
+  min-height: 800vh;
+  background: url("https://www.pngitem.com/pimgs/m/677-6775527_recipe-vector-salad-food-background-images-png-transparent.png");
+  background-position:top;
+  background-size: contain;
+  background: cover; 
+ z-index: 5; 
+}
+
+.searchin{
+  min-width: 80vh;
+margin-top: 30px;
+min-height: 10vh;
+display: flex;
+justify-content: center;
+background: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-summer-recipe-health-texture-black-background-image_155213.jpg");
+background: cover;
+z-index: 5;
+margin-bottom: 50px;
+}
+
+.searching{
+min-width: 80vh;
+margin-top: 30px;
+min-height: 10vh;
+margin-bottom: 100px;
+background: url("https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-summer-recipe-health-texture-black-background-image_155213.jpg");
+background: cover;
+z-index: 5;
+color: white;
+
+}
+
+
+.search-button{
+  min-height: 5vh;
+margin-top: 30px;
+margin-bottom: 100px;
+}
+
+.detail{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.test{
+  background-color: #4d4e4e;
+background-image: linear-gradient(315deg, #6e7575 0%, #b8b0b0 74%);
+margin-bottom: 20px;
+ width: 500px;
+ height: auto;
+ 
+
+
+}
+
+.imgg{
+display: flex;
+justify-content: center;
+margin-right: 10px;
+margin-left: 20px;
+
+
+}
+
+.align{
+  margin-left:20px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #172525;
+}
+
+.name{
+  color: #182727;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
