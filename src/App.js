@@ -11,7 +11,7 @@ export default function App (){
  
   const [receipee, setNutrition] = useState([]);
   const [search ,setSearch] = useState("");
-  const [query , setQuery] = useState('');
+  const [query , setQuery] = useState('poha');
 
 
   useEffect(()=>{
@@ -71,9 +71,9 @@ export default function App (){
        />
     ))}
      </div>
-     {/* <div>
+     <div>
        <h2 className="tc">@ copyright Juhi Jha</h2>
-     </div> */}
+     </div>
   
   
     </div>
