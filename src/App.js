@@ -11,7 +11,7 @@ export default function App (){
  
   const [receipee, setNutrition] = useState([]);
   const [search ,setSearch] = useState("");
-  const [query , setQuery] = useState('poha');
+  const [query , setQuery] = useState('mushroom');
 
 
   useEffect(()=>{
